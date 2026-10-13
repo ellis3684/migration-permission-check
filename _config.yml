@@ -1,0 +1,9 @@
+# GitHub Pages site for the Marketplace listing: docs, privacy and security
+# policies. Change the partner details here and every page picks them up.
+title: Migration Permission Check
+description: Find out who lost or gained access to each Confluence space after a Data Center to Cloud migration.
+theme: jekyll-theme-primer
+partner: Corey Ellis
+contact_email: coreyellisdeveloper@gmail.com
+policy_date: October 13, 2026
+exclude: [README.md]
